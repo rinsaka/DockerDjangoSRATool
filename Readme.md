@@ -1,6 +1,6 @@
 # Software Reliability Assessment Tool のための Docker 基盤
 
-- [Docker 入門：Python Django サーバを Docker で構築する](https://rinsaka.com/docker/401.html) のページをベースに作成した，[Software Reliability Assessment Tool (https://github.com/rinsaka/PythonDjangoSRATool)](https://github.com/rinsaka/PythonDjangoSRATool) を Docker で動かすための基盤です．
+_[Docker 入門：Python Django サーバを Docker で構築する](https://rinsaka.com/docker/401.html) のページをベースに作成した，[Software Reliability Assessment Tool (https://github.com/rinsaka/PythonDjangoSRATool)](https://github.com/rinsaka/PythonDjangoSRATool) を Docker で動かすための基盤です．_
 
 ## 使い方
 
